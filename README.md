@@ -1,4 +1,4 @@
-<<<<<<< 
+ 
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="Notion.png">
+  <img alt="License" src="">
 </p>
 
 <br>
@@ -52,6 +52,3 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 =======
-
-  
->>>>>>> 8b26dfe6f6bf1e3924ca432f91a7cf58b9e553cf
